@@ -1,0 +1,23 @@
+.wrapper img{
+    width: 19px;
+    
+}
+.wrapper button{
+    background-color: violet;
+    border: none;
+
+}
+.wrapper{
+    display: flex;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    
+}
+.wrapper input{
+    width: 30vh;
+    height: 25px;
+    box-decoration-break: none;
+}
+.wrapper form{
+    overflow: hidden;
+}

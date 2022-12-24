@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  height: 6vh;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 10%;
+  background: white;
+  border-bottom: 2px inset whitesmoke ;
+
+}
+.wrapper > a {
+    color: violet;
+    text-decoration: none;
+}
+.wrapper p{
+    color: grey;
+    margin-right: 90vh;
+}
+.wrapper button{
+    width: 100px;
+    height: 30px;
+    border-color: rgba(0, 0, 0, 0.112);
+    border-radius: 4px;
+    color: grey;
+}

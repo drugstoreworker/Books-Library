@@ -1,0 +1,24 @@
+.imgWrapper img{
+    width: 150px;
+    border-radius: 5px;
+}
+.wrapper{
+    width: 400px;
+    display: flex;
+    margin: 25px 60px;
+    border-top: 2px solid whitesmoke ;
+    padding-top: 20px;
+}
+.textWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 150px;
+}
+.wrapper button{
+    height: 25px;
+    background-color: violet;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
